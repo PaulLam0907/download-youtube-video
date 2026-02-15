@@ -116,6 +116,3 @@ class Download:
 # CYAN    =   "\033[1;36m"
 # END     =   "\033[0;0m "
 # print(RED + "TEXT" + END)
-
-# Download().url(["https://youtu.be/0yOezV2qS6E ", "https://youtu.be/u2qPKcqRlS4 ", "https://youtu.be/RbR6LUKScyw", "https://youtu.be/zjd0vJk8qj8 ", " https://youtu.be/W87M6tRgA3g"])
-# Download().url("https://youtube.com/shorts/c8FLGOLSK5s?si=z1ln0w2F34tfgxJd")
